@@ -1,5 +1,5 @@
 # Methods and Loops HW9
-This is my project description
+In this project our goal is to take the addition game, which we have previously worked on and use methods and loops to make the code run smoother and look cleaner.
 
 ## Java Code
 ```java
@@ -102,13 +102,8 @@ The game is complete.
 Your final score was 15
 ```
 
-## Command Prompt Output
-```
-this is where we put the command from cmd 
-```
-
 ## References
-
+Liang, Daniel Y. <i>Introduction to Java Programming</i>. 10th ed. N.p.: Pearson, 2015. Print.
 
 ## Conclusion
-This was an example of Markdown documentation as we have done in the past.
+In conclusion, I learned some very valuabletechnqiues during this assignment. before this I never knew you could have many methods in a code and I assumed you could only use the main method. Its pretty cool that you can start a new method for thing like debugging and then you can call up the results you get and youll be 100 percent cofident that your code works instead of just hoping it works.
